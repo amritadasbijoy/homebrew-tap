@@ -1,6 +1,6 @@
 cask "coreglance" do
-  version "1.0.3"
-  sha256 "11e88b2d03af7615e498cd01a555a614849e7194733ed6a7221be3446cc0f8b9"
+  version "1.0.4"
+  sha256 "a8260fbd81f13255d5fe4725ab178ae53d6b6f67301f303c4b01e06ff51a42b7"
 
   url "https://github.com/amritadasbijoy/CoreGlance/releases/download/v#{version}/CoreGlance-#{version}.zip"
   name "CoreGlance"
